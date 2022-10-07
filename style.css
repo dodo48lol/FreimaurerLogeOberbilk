@@ -1,0 +1,38 @@
+body {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#top {
+    text-align: center;}
+
+
+  #logo {
+    color: rgb(0, 255, 13);
+    background-color: aliceblue; display: inline block;
+    font-size: 48px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 16px;
+    
+    
+  }
+#wortlogo{
+    color: rgb(0, 255, 13);
+    font-family: LEDLIGHT;
+    font-size: 48px;
+    font-weight: bold;
+    padding: 8px;
+    text-align: left;
+}
+#navigation a{
+    color: grey ;
+    font-size: 22px;
+    padding: 32px;
+}
+#navigation a:hover {
+color:rgb(0, 255, 13); }
+
+#main {
+    max-width: 800px;
+margin: auto;}
